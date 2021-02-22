@@ -1,2 +1,2 @@
 # MyMachine_Learning
-These projects are based on different aplcations of General ML Algorithms.
+These projects are based on different applcations of General ML Algorithms.
